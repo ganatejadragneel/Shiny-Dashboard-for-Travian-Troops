@@ -1,0 +1,51 @@
+Name,Race,Class,Wood,Clay,Iron,Crop,Attack,Definf,Defcav,Speed,Loot,Cons,Time
+Phalanx,Gauls,Infantry,100,130,55,30,15,40,50,7,35,1,17
+Swordsman,Gauls,Infantry,140,150,185,60,65,35,20,6,45,1,24
+Pathfinder,Gauls,Cavalry,170,150,20,40,0,20,10,17,0,2,23
+Theutates thunder,Gauls,Cavalry,350,450,230,60,90,25,40,19,75,2,41
+Druidraider,Gauls,Cavalry,360,330,280,120,45,115,55,16,35,2,43
+Haeduan,Gauls,Cavalry,500,620,675,170,140,60,165,13,65,3,52
+Ram,Gauls,Assault,950,555,330,75,50,30,105,4,0,3,83
+Trebuchet,Gauls,Assault,960,1450,630,90,70,45,10,3,0,6,150
+Chieftain,Gauls,,30750,45400,31000,37500,40,50,50,5,0,4,1512
+Settler,Gauls,,4400,5600,4200,3900,0,80,80,5,3000,1,378
+Legionnaire,Romans,Infantry,120,100,150,30,40,35,50,6,50,1,27
+Praetorian,Romans,Infantry,100,130,160,70,30,65,35,5,20,1,29
+Imperano,Romans,Infantry,150,160,210,80,70,40,25,7,50,1,32
+Equites legati,Romans,Cavalry,140,160,20,40,0,20,10,16,0,2,23
+Equites imperatoris,Romans,Cavalry,550,440,320,100,120,65,50,14,100,3,44
+Equites caesaris,Romans,Cavalry,550,640,800,180,180,80,105,10,70,4,59
+Battering ram,Romans,Assault,900,360,500,70,60,30,75,4,0,3,77
+Fire catapult,Romans,Assault,950,1350,600,90,75,60,10,3,0,6,150
+Senator,Romans,,30750,27200,45000,37500,50,40,30,4,0,5,1512
+Settler,Romans,,4600,4200,5800,4400,0,80,80,5,3000,1,448
+Clubswinger,Teutons,Infantry,95,75,40,40,40,20,5,7,60,1,12
+Spearman,Teutons,Infantry,145,70,85,40,10,35,60,7,40,1,19
+Axeman,Teutons,Infantry,130,120,170,70,60,30,30,6,50,1,20
+Scout,Teutons,Infantry,160,100,50,50,0,10,5,9,0,1,19
+Paladin,Teutons,Cavalry,370,270,290,75,55,100,40,10,110,2,40
+Teuton Knight,Teutons,Cavalry,450,515,480,80,150,50,75,9,80,3,49
+Ram,Teutons,Assault,1000,300,350,70,65,30,80,4,0,3,70
+Catapult,Teutons,Assault,900,1200,600,60,50,60,10,3,0,6,150
+Chief,Teutons,,35500,26600,25000,27200,40,60,40,4,0,4,1175
+Settler,Teutons,,5800,4400,4600,5200,10,80,80,5,3000,1,517
+Slave militia,Egyptians,Infantry,45,60,30,15,10,30,20,7,15,1,9
+Ash warden,Egyptians,Infantry,115,100,145,60,30,55,40,6,50,1,22
+Khopesh warrior,Egyptians,Infantry,170,180,220,80,65,50,20,7,45,1,24
+Sopdu explorer,Egyptians,Cavalry,170,150,20,40,0,20,10,16,0,2,23
+Anhur Guard,Egyptians,Cavalry,360,330,280,120,50,110,50,15,50,2,43
+Resheph Chariot,Egyptians,Cavalry,450,560,610,180,110,120,150,10,70,3,54
+Ram,Egyptians,Assault,995,575,340,80,55,30,95,4,0,3,80
+Stone catapult,Egyptians,Assault,980,1510,660,100,65,55,10,3,0,6,150
+Nomarch,Egyptians,,34000,50000,34000,42000,40,50,50,4,0,4,1512
+Settler,Egyptians,,4560,5890,4370,4180,0,80,80,5,3000,1,413
+Infantry1,Huns,Infantry,130,80,40,40,35,40,30,6,50,1,14
+Infantry2,Huns,Infantry,140,110,60,60,50,30,10,6,30,1,19
+Scout,Huns,Cavalry,170,150,20,40,0,20,10,19,0,2,23
+Cavalry1,Huns,Cavalry,290,370,190,45,120,30,15,16,115,2,40
+Cavalry2,Huns,Cavalry,320,350,330,50,115,80,70,16,105,2,41
+Cavalry3,Huns,Cavalry,450,560,610,140,180,60,40,14,80,3,50
+Ram,Huns,Assault,1060,330,360,70,65,30,90,4,0,3,73
+Catapult,Huns,Assault,950,1280,620,60,45,55,10,3,0,6,150
+Logades,Huns,,37200,27600,25200,27600,50,40,30,5,0,4,1512
+Settler,Huns,,6100,4600,4800,5400,10,80,80,5,3000,1,483
