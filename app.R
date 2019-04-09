@@ -2,14 +2,17 @@ library(shiny)
 require(shinydashboard)
 library(ggplot2)
 library(dplyr)
+library(magrittr)
 library(reshape)
 library(ggthemes)
+library(gridExtra)
+library(plotly)
 
 
-setwd('C:/Users/hp/Desktop/VIT/Data Visualization/Project/Review 3/Main')
+#setwd('C:/Users/hp/Desktop/VIT/Data Visualization/Project/Review 3/Travian')
 troops <- read.csv('./TravianTroops.csv',stringsAsFactors = F)
 
-header <- dashboardHeader(title = "Travian")  
+header <- dashboardHeader(title = "Travian")
 
 sidebar <- dashboardSidebar(
   sidebarMenu(
